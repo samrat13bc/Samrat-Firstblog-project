@@ -3,6 +3,8 @@ Analysing the data and surveying the job satisfaction level
 
 
  - Data Science Blog Post.
+ 
+ I am attaching my medium link here you can go through them also [Medium link for data science blog post](https://medium.com/@samratnilesh098/the-top-countries-for-developer-for-quality-jobs-e150d1f4329b)
 
 Libraries
 To be able to run this notebook, you need to install these libraries:
